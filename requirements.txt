@@ -1,0 +1,7 @@
+PyQt6
+Pillow
+reportlab
+tomli-w
+numpy
+imagehash
+pywin32
